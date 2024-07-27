@@ -1,7 +1,11 @@
-#  Libros
+#  Books
 
-El objetivo de este repositorio es traducir libros para estudiar español a través contenido técnico, mientras leo
-libros de programación.
+Repository with study notes and book translations (to also study another language)
 
-Si tienes sugerencias o encuentras algún error, puedes [crear un issue](https://github.com/rzuquim/edu-libros/issues)
-o abrir un [pull request](https://github.com/rzuquim/edu-libros/pulls).
+- [Translations](https://github.com/rzuquim/edu-books/tree/main/translations)
+- [Notes](https://github.com/rzuquim/edu-books/tree/main/notes)
+
+I am using [Obsidian](https://obsidian.md/) to edit this files, so you might have a better experience using the same editor to read it or to contribute. 
+
+If you have suggestions or fixes please [open an issue](https://github.com/rzuquim/edu-libros/issues) or a [pull request](https://github.com/rzuquim/edu-libros/pulls).
+
