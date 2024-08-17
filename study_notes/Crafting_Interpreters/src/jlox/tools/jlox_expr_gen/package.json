@@ -1,0 +1,17 @@
+{
+    "name": "jlox_expr_gen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^12.1.0",
+        "handlebars": "^4.7.8"
+    }
+}
