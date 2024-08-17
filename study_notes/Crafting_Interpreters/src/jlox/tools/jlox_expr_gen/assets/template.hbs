@@ -1,0 +1,21 @@
+
+package rz.jlox;
+
+abstract class Expr {
+    {{#each exprs}}
+    static class {{this.className}} extends Expr {
+        {{this.className}}({{#each this.fields}}{{this.type}} {{this.name}}{{#unless @last}}, {{/unless}}{{/each}}) {
+            {{#each this.fields}}
+            this.{{this.name}} = {{this.name}};
+            {{/each}}
+        }
+
+        {{#each this.fields}}
+        final {{this.type}} {{this.name}};
+        {{/each}}
+    }
+    {{#unless @last}}
+
+    {{/unless}}
+    {{/each}}
+}

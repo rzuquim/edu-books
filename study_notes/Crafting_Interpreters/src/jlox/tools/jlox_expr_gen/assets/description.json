@@ -1,0 +1,52 @@
+{
+    "exprs": [
+        {
+            "className": "Binary",
+            "fields": [
+                {
+                    "type": "Expr",
+                    "name": "left"
+                },
+                {
+                    "type": "Token",
+                    "name": "operator"
+                },
+                {
+                    "type": "Expr",
+                    "name": "right"
+                }
+            ]
+        },
+        {
+            "className": "Grouping",
+            "fields": [
+                {
+                    "type": "Expr",
+                    "name": "expression"
+                }
+            ]
+        },
+        {
+            "className": "Literal",
+            "fields": [
+                {
+                    "type": "Object",
+                    "name": "value"
+                }
+            ]
+        },
+        {
+            "className": "Unary",
+            "fields": [
+                {
+                    "type": "Token",
+                    "name": "operator"
+                },
+                {
+                    "type": "Expr",
+                    "name": "right"
+                }
+            ]
+        }
+    ]
+}
