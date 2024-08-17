@@ -2,12 +2,28 @@
 package rz.jlox;
 
 abstract class Expr {
+    interface Visitor<R> {
+        {{#each exprs}}
+        R visit{{this.className}}Expr({{this.className}} expr);
+        {{#unless @last}}
+
+        {{/unless}}
+        {{/each}}
+    }
+
+    abstract <R> R accept(Visitor<R> visitor);
+
     {{#each exprs}}
     static class {{this.className}} extends Expr {
         {{this.className}}({{#each this.fields}}{{this.type}} {{this.name}}{{#unless @last}}, {{/unless}}{{/each}}) {
             {{#each this.fields}}
             this.{{this.name}} = {{this.name}};
             {{/each}}
+        }
+
+        @Override
+        <R> R accept(Visitor<R> visitor) {
+            return visitor.visit{{this.className}}Expr(this);
         }
 
         {{#each this.fields}}

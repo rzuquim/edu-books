@@ -22,6 +22,11 @@ bread     → "toast" | "biscuits" | "English muffin" ;
 ```
 
  To represent this in Java  the book suggests a series of classes and the visitor pattern. Since it is tedious to write all this classes (20 something) by hand, the book suggesting writing a tool to generate the classes. Although it does this using java, I wrote the tools using js and handlebars (see `./src/jlox/tools/jlox_expr_gen`). 
- 
+
+Then we will write a AST lisp printer visitor so we can visualize operation precedence. Examples:
+```
+1 + 2 * 3         →     (+ (* (2 3)) 1)
+-123 * (45.67)    →     (* (- 123) (group 45.67))
+```
 # Challenges
 
