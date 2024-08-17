@@ -10,7 +10,7 @@ A formal grammar takes a set of atomic pieces it calls its "alphabet". Then it d
 | implemented by | scanner | parser      |
 A formal grammar job is to separate valid from invalid strings. To specify the syntactic grammar is common to use a notation with a **head** (rule label) and a **body** that contains **symbols**. Symbols might be **terminals** (node leaves) or **non-terminals** (to be expanded). Here is the book example on a grammar that produces breakfast.
 
-```
+```ebnf
 breakfast → protein ( "with" breakfast "on the side" )?
           | bread ;
 
@@ -28,5 +28,54 @@ Then we will write a AST lisp printer visitor so we can visualize operation prec
 1 + 2 * 3         →     (+ (* (2 3)) 1)
 -123 * (45.67)    →     (* (- 123) (group 45.67))
 ```
-# Challenges
 
+# Challenges
+1. Earlier, I said that the `|`, `*`, and `+` forms we added to our grammar metasyntax were just syntactic sugar. Take this grammar:
+
+```ebnf
+expr → expr ( "(" ( expr ( "," expr )* )? ")" | "." IDENTIFIER )+
+     | IDENTIFIER
+     | NUMBER
+```
+
+Produce a grammar that matches the same language but does not use any of that notational sugar.
+
+*Bonus:* What kind of expression does this bit of grammar encode?
+
+> This grammar represents a function invocation (although it allows the function name to be a number). 
+
+```ebnf
+expr → expr fn_call
+expr → IDENTIFIER
+expr → NUMBER
+
+fn_call → fn_call call
+fn_call → call
+
+call → "(" ")" 
+call → "(" arguments ")" 
+call → "." IDENTIFIER
+
+arguments → expr
+arguments → arguments "," expr
+```
+
+2. The Visitor pattern lets you emulate the functional style in an object-oriented language. Devise a complementary pattern for a functional language. It should let you bundle all of the operations on one type together and let you define new types easily. (SML or Haskell would be ideal for this exercise, but Scheme or another Lisp works as well.)
+
+> ???
+
+3. In [reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (RPN), the operands to an arithmetic operator are both placed before the operator, so `1 + 2` becomes `1 2 +`. Evaluation proceeds from left to right. Numbers are pushed onto an implicit stack. An arithmetic operator pops the top two numbers, performs the operation, and pushes the result. Thus, this:
+
+```
+(1 + 2) * (4 - 3)
+```
+
+in RPN becomes:
+
+```
+1 2 + 4 3 - *
+```
+
+Define a visitor class for our syntax tree classes that takes an expression, converts it to RPN, and returns the resulting string.
+
+> Defined on the `jlox` source.
