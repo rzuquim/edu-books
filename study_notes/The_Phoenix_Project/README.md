@@ -6,9 +6,7 @@
 
 You can purchase this book [here](https://itrevolution.com/product/the-phoenix-project/).
 
----
-
-> About the authors
+##  About the authors
 
 Gene Kim co-founded and was the CTO of [Tripwire](https://en.wikipedia.org/wiki/Tripwire_(company)) sold by $710M. 
 
