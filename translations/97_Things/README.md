@@ -1,7 +1,6 @@
-#  97 Cosas que Todo Programador Debería Saber
+# 97 Cosas que Todo Programador Debería Saber
 
-*Sabiduría Colectiva de los Expertos*
-*Perlas de Sabiduría para programadores recopiladas de destacados practicantes*
+_Sabiduría Colectiva de los Expertos_ _Perlas de Sabiduría para programadores recopiladas de destacados practicantes_
 
 > Editado por Kevlin Henney
 
