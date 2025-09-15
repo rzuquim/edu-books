@@ -480,6 +480,76 @@ cultural y social que los indígenas habían alcanzado.
 
 ### VILLA RICA DE OURO PRETO: LA POTOSÍ DE ORO
 
+```
+Durante dos siglos a partir del descubrimiento, el suelo de Brasil había negado los metales, tenazmente, a sus
+propietarios portugueses.
+```
+
+```
+Los aborígenes desconocían los metales; fueron los portugueses quienes tu- vieron que descubrir, por su propia cuenta,
+los sitios en que se habían depositado los aluviones de oro en el vasto territorio que se iba abriendo, a través de la
+derrota y el exterminio de los indígenas, a su paso de conquista.
+```
+
+```
+La región de Minas Gerais entró así, impetuosamente, en la historia: la mayor cantidad de oro hasta entonces descubierta
+en el mundo fue extraída en el menor espacio de tiempo.
+```
+
+```
+A lo largo del siglo XVIII, la producción brasileña del codiciado mineral superó el volumen total del oro que España
+había extraído de sus colonias durante los dos siglos anteriores
+```
+
+```
+Brasil tenía trescientos mil habitantes en 1700; un siglo después, al cabo de los años del oro, la población se había
+multiplicado once veces. No menos de trescientos mil portugueses emigraron a Brasil durante el siglo XVIII, «un
+contingente mayor de población... que el que España aportó a todas sus colonias de América»
+```
+
+```
+Se estima en unos diez millones el total de negros escla- vos introducidos desde África (...) debe tenerse en cuenta
+que el ciclo del oro absorbió mano de obra esclava en proporciones enormes.
+```
+
+```
+Francisco Tavares de Brito, definía en 1732 a Ouro Preto como «la Potosí de oro».
+```
+
+```
+(...) la Corona llegó a prohibir el establecimiento de cualquier orden religiosa en el distrito minero.
+```
+
+```
+Proliferaban, de todos modos, las hermosas iglesias construidas y decoradas en el original estilo barroco característico
+de la región. Minas Gerais atraía a los mejores artesanos de la época. Exteriormente, los templos aparecían sobrios,
+despojados; pero el interior, símbolo del alma divina, resplandecía en el oro puro de los altares
+```
+
+```
+Como había ocurrido en Potosí, Ouro Preto se lanzaba al derroche de su riqueza súbita. Las procesiones y los
+espectáculos daban lugar a la exhibición de vestidos y adornos de lujo fulgurante. En 1733, una festividad religiosa
+duró más de una semana.
+```
+
+```
+Un decreto real de 1711 prohibió la venta de los esclavos ocupados en tareas agrícolas con destino al servicio en las
+minas, con la excepción de los que mostraran «perversidad de carácter».
+```
+
+```
+Los negros morían rápidamente, sólo en casos excepcionales llegaban a soportar siete años continuos de trabajo.
+```
+
+```
+Una esclava mulata, Francisca da Silva, conquistó su libertad al convertirse en la amante del millonario João Fernandes
+de Oliveira, virtual soberano de Tijuco, y ella, que era fea y ya tenía dos hijos, se convirtió en la Xica que manda.
+Como nunca había visto el mar y quería tenerlo cerca, su caballero le construyó un gran lago artificial en el que puso
+un barco con tripulación y todo.
+```
+
+### CONTRIBUCIÓN DEL ORO DE BRASIL AL PROGRESO DE INGLATERRA
+
 ## Vocabulario
 
 `acechar`
@@ -517,3 +587,11 @@ cultural y social que los indígenas habían alcanzado.
 `hincar`
 
 > Ponerse una persona de rodillas. _se hincó ante la imagen del santo patrón_
+
+`bosque`
+
+> Abundancia desordenada de algo, confusión, cuestión intrincada. _Aquí el oro era bosque_
+
+```
+
+```
