@@ -59,6 +59,30 @@ algo tan banal que necesitan encontrar alguna manera de expresar su singularidad
 
 ## El dinero es tiempo
 
+En un plano más prosaico, el servicio doméstico libera a los empleadores para invertir su tiempo en actividades más
+lucrativas o placenteras. Cuanto más rico se es, mayor es el coste en tiempo que exige el mantenimiento de las
+posesiones, y por tanto, mayor la cantidad de trabajo necesaria. En ese sentido, la comparación entre sirvientas y
+obreros sigue siendo pertinente: ambos proporcionan un esfuerzo físico considerable a cambio de capital.
+
+Patricia y Christophe son una pareja adinerada y exitosa que se conoció en Cambridge. Ya durante sus estudios no eran
+responsables de la limpieza ni del mantenimiento de sus habitaciones, ni tampoco de su alimentación. Patricia contaba
+con una sirvienta a tiempo completo y Christophe vivía en una residencia universitaria con servicio de conserjería. Tras
+casarse, se mudaron a un piso de 300 metros cuadrados y contrataron a Lyvia para encargarse de las tareas domésticas,
+mientras ellos trabajaban seis días a la semana, de 9:00 a 20:00.
+
+Lyvia regresó a Rumanía justo cuando Christophe fue ascendido y comenzó a viajar con frecuencia por Europa, mientras
+Patricia dio a luz a su primer hijo. De inmediato contrataron a una sustituta, además de una nanny y un chófer. Años más
+tarde, con el nacimiento del segundo hijo, Christophe despidió al chófer y contrató a un exmecánico especializado en
+coches antiguos, con el objetivo de iniciar una colección que este empleado se encargaría de mantener. Con la llegada
+del tercer hijo y su mudanza a un palacete en las afueras de Londres, se hizo necesario contratar una nueva nanny para
+el recién nacido y una cocinera. De este modo, la pareja lograba conciliar su intensa carga laboral con la vida social,
+el tiempo de ocio y la vida familiar.
+
+Sin el servicio doméstico, esa rutina sería imposible. Especialmente para las mujeres. En la entrevista, Patricia
+explicó que su madre le había buscado una empleada del hogar durante la universidad para que ella pudiera “triunfar como
+los hombres”. Así, el servicio doméstico no constituye un simple capricho, sino un mecanismo esencial de dominación
+económica, social, cultural y simbólica.
+
 ## Vocabulario
 
 `arrellanar`
