@@ -58,6 +58,40 @@ que sus empleos no se ejerzan por dinero, sino por un sentido de propósito mayo
 El último ingrediente es no suplicar jamás que la contraten. “Hay que dejar que te deseen, que piensen que su vecina
 querrá tenerte como mayordoma, y que entonces será demasiado tarde”.
 
+## Descifrar los cuerpos
+
+El currículum tiene un papel marginal en la contratación de una empleada doméstica. Las empleadoras prefieren contactar
+a las antiguas patronas de la candidata, además de evaluarla en la práctica. El cuerpo y la imagen también son factores
+esenciales y explícitos. No hay decoro en las palabras de las mujeres ricas que buscan sirvientas: se creen con derecho
+a explicitar sin tapujos sus expectativas en términos corporales. Incluso consideran que pueden extrapolar cualidades
+simplemente examinando el físico de las candidatas.
+
+Por ejemplo, algunas dicen distinguir la falta de honradez en el rostro, los gestos, los movimientos o la ropa de las
+aspirantes. Hablan abiertamente de analizar la “forma del cuerpo”, la mirada, la sonrisa, el maquillaje, la forma de
+vestirse y el hexis de las candidatas, es decir, su manera de mover el cuerpo.
+
+Existe un miedo recurrente a que los maridos sean sensibles a los encantos de las sirvientas, por lo que buscan detectar
+y descartar a las mujeres consideradas seductoras. El juicio sobre la belleza de las candidatas es ambivalente: deben
+mostrar seguridad en sí mismas y tener un aspecto impecable, pero no sexualizado.
+
+## Una cuestión de raza
+
+La sociología no presupone ningún fundamento biológico en la valoración de las diferentes razas dentro de una sociedad.
+De hecho, todo lo contrario: se ha constatado que los individuos asignan comportamientos, cualidades o defectos a
+ciertas nacionalidades, colores de piel, orígenes migratorios o incluso acentos. Por ejemplo, a los obreros negros se
+los considera más robustos y, en la construcción civil francesa, se los destina a puestos físicamente más exigentes. El
+servicio doméstico no es una excepción en términos de prejuicio racial.
+
+Resulta completamente normal que una patrona diga que busca una sirvienta filipina, negra o árabe, o que declare que no
+le gustan las chinas o las musulmanas. Los estereotipos racistas circulan sin el menor tabú: “las árabes son buenas
+cocineras” o “las marfileñas son buenas niñeras”. Las candidatas incluso entran en el juego y se amoldan a las
+expectativas raciales de las patronas. Modifican su apariencia, su cabello y su vestimenta, por ejemplo, llevando a la
+entrevista accesorios africanos cualquiera y aprendiendo recetas de los países que las patronas imaginan que deberían
+conocer.
+
+“Tardé bastante en comprender que no debía ocultar el hecho de que soy de Guadalupe, sino resaltarlo de manera astuta”.
+Incorporar los clichés raciales resulta inevitable, pero en su justa medida.
+
 ## Vocabulario
 
 `cotillear`
@@ -71,3 +105,11 @@ querrá tenerte como mayordoma, y que entonces será demasiado tarde”.
 `subrayar`
 
 > Señalar por debajo con una raya alguna letra, palabra o frase escrita, para llamar la atención.
+
+`atisbar`
+
+> Mirar, observar con cuidado, recatadamente.
+
+`tapujos`
+
+> Reserva o disimulo con que se disfraza u oscurece la verdad.
