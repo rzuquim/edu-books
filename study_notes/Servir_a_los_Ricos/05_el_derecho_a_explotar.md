@@ -20,23 +20,36 @@ En su contrato se especificaba que, si se negaba a ponerse el pañal, se le desc
 Por lo tanto, la pregunta aquí es: cuáles son las condiciones sociales e institucionales que permiten que, en la
 actualidad, sea posible este tipo bizarro de explotación?
 
-La explotación en los hogares de ricos es posible primero porque estos dominan las leyes o directamente o
-indirectamente, contratando a los mejores abogados y teniendo contactos importantes en la justicia. Después, los
-inspectores de trabajo no acuden a domicilios particulares en Francia y desde la calle no se puede ver qué ocurre en el
-interior de las casas. Al final la mayoría de los empleadores creen y aseguran que consideran la ley una instancia
-superior que debe y está siendo ser respetada en eses contractos de trabajo. Pero esa creencia es basada en impresiones
-y sentimientos. Los patrones no saben precisar cuantas horas sus sirvientas trabajan ni cuando fueron sus ultimas
-vacaciones.
+La explotación en los hogares de los ricos es posible, en primer lugar, porque estos dominan las leyes, directa o
+indirectamente, contratando a los mejores abogados y manteniendo contactos influyentes en el ámbito judicial. Además,
+los inspectores de trabajo no acuden a domicilios particulares en Francia y, desde la calle, no se puede ver lo que
+ocurre en el interior de las casas. Al final, la mayoría de los empleadores cree y asegura considerar la ley como una
+instancia superior que debe y está siendo respetada en esos contratos de trabajo. Pero esa creencia se basa en
+impresiones y sentimientos. Los patrones no saben precisar cuántas horas trabajan sus sirvientas ni cuándo fueron sus
+últimas vacaciones.
 
-De hecho el trabajo negro existe, pero la mayoría de las grande fortunas tienen empleados "en gris": solo declaran parte
-de las horas de sus sirvientas con el objetivo de beneficiarse de deducciones fiscales. Para colmo no se firma ningún
-contracto.
+De hecho, el trabajo en negro existe, pero la mayoría de las grandes fortunas tiene empleados “en gris”: solo declaran
+parte de las horas de sus sirvientas con el objetivo de beneficiarse de deducciones fiscales. Para colmo, no se firma
+ningún contrato.
 
-Conviene apuntar que a lo largo de la historia del derecho laboral, las criadas estaban excluidas de las luchas obreras
-del siglo XX. Hasta 1973 el servicio doméstico no entró en el código del trabajo francés. El feminismo burgués católico
-se interesó por las criadas en la década de 1930 y eso reflexionó en como mejorar sus condiciones. En parte para temer
-que las criadas accedieran al derecho o se rebelen. A estas mujeres les horrorizaba la palabra convenio, pero gracias a
-ellas en 1951 ve la luz un primer convenio laboral para el servicio domestico.
+Conviene recordar que, a lo largo de la historia del derecho laboral, las criadas estuvieron excluidas de las luchas
+obreras del siglo XX. Hasta 1973, el servicio doméstico no fue incorporado al código laboral francés. El feminismo
+burgués católico se interesó por las criadas en la década de 1930, y eso influyó en la reflexión sobre cómo mejorar sus
+condiciones. En parte, por el temor a que las criadas accedieran a derechos o se rebelaran. A estas mujeres les
+horrorizaba la palabra “convenio”, pero gracias a ellas, en 1951 vio la luz el primer convenio laboral para el servicio
+doméstico.
+
+Sin embargo, a las grandes fortunas no les interesa ningún convenio colectivo. Las aristócratas creen que aprenderán de
+sus madres y abuelas a tratar a sus sirvientas, y que eso es suficiente. “¿Qué necesidad hay de complicar las cosas?”
+Además, el carácter “interesado” se opone a la creencia de que el servicio doméstico es un don.
+
+Conciben también que los países de origen de sus sirvientas son sociedades donde no reina ningún derecho, aunque en
+muchos de esos países existen convenciones específicas para trabajadoras domésticas: Argentina, Chile, Uruguay, por
+ejemplo. De hecho, tampoco es cierto que un contrato formal proteja a las sirvientas. El contrato de Damien preveía una
+multa en caso de negarse a llevar pañales, lo cual es claramente abusivo e ilegal. Otros contratos establecen un límite
+de horas que casi nunca se respeta.
+
+Muchas veces las declaran como asalariadas de sus propias empresas por “optimización fiscal”, o que tal cual es ilegal.
 
 ## Vocabulario
 
@@ -48,3 +61,7 @@ ellas en 1951 ve la luz un primer convenio laboral para el servicio domestico.
 `colmo`
 
 > Complemento, exceso, sobra.
+
+`asueto`
+
+> Interrupción temporal por descanso del trabajo.
