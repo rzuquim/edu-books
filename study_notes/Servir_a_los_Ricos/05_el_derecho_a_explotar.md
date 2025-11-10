@@ -51,6 +51,31 @@ de horas que casi nunca se respeta.
 
 Muchas veces las declaran como asalariadas de sus propias empresas por “optimización fiscal”, o que tal cual es ilegal.
 
+## Explotar como es debido
+
+Las grandes fortunas se sienten menos legitimadas para dominar a individuos que se les asemejan. Jacques, un aristócrata
+francés, despidió a un mayordomo que, aunque era un empleado excelente, resultaba ser blanco, joven y estudiante de la
+Sorbona, como él lo fue en su día. “No podía dejar de imaginarme a su edad siendo mayordomo, y era insoportable, porque
+fui un estudiante brillante”.
+
+Cuanto más se parecen las sirvientas a sus patrones, más las colman económicamente y mejor compensan su arduo trabajo.
+Gustave es un francés blanco que dedica su vida a sus empleadores. Su patrona, a menudo, lo llama involuntariamente por
+el nombre de su hijo, que tiene la misma edad. Aparte de haber estudiado economía, es un mayordomo que duerme, en
+promedio, tres horas por noche. Tiene nociones de derecho laboral y, en parte, fue contratado precisamente para ser el
+intermediario legal entre su patrón y las demás sirvientas. Por ironía, debe encargarse de que sus compañeras no
+reivindiquen sus derechos. Debe “repetirles que su trabajo es vocacional y hacerles un montón de regalos (…) cosas que
+las animen cuando el trabajo es demasiado duro”.
+
+Gustave es la personificación de la **explotación dorada**. Cobra 5000 euros mensuales y una decena de incentivos de 300
+euros al año, pero no tiene ni un solo día de descanso, jamás sale de la casa de sus patrones y ha perdido el contacto
+con su familia y amigos.
+
+Las sirvientas tienen precios distintos a ojos de las grandes fortunas. Sus condiciones de trabajo dependen en gran
+medida de su vulnerabilidad y del poder simbólico que puedan ejercer sobre sus empleadores. “Yo no contrato franceses;
+prefiero a asiáticos o a gente del Este, que no arman tantos líos (…) A los franceses, para que hagan lo que les dices,
+hay que darles la luna. Para colmo, te amenazan con denunciarte! Los otros no. Mi criada moldava se conforma con una
+palabra amable o una crema de manos. Con esa gente todo es más fácil.”
+
 ## Vocabulario
 
 `pañales`
