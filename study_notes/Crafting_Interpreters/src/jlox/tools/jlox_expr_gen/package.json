@@ -12,6 +12,7 @@
     "license": "ISC",
     "dependencies": {
         "commander": "^12.1.0",
-        "handlebars": "^4.7.8"
+        // SECURITY: https://access.redhat.com/security/cve/cve-2026-33938
+        // "handlebars": "^4.7.8"
     }
 }

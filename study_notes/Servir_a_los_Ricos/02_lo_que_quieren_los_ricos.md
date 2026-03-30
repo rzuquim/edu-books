@@ -8,8 +8,8 @@ francés atendido por Maza. Al igual que Bruno, los multimillonarios entrevistad
 la posibilidad de vivir sin servicio doméstico. Para ellos, se trata de una necesidad, no de un lujo.
 
 A Alizée le parece que el uso de la palabra necesidad está también vinculado al estatus que la aristocracia y la alta
-burguesía necesitan representar. Pese a su coste, las sirvientas “hacen falta”. La historiadora Anne Martin-Fugier
-escribió hacia 1900: “Se podría decir que la pobreza empieza cuando no se tiene criada.”
+burguesía necesitan representar. Pese a su coste, las sirvientas “hacen falta”. 
+La historiadora Anne Martin-Fugier escribió hacia 1900: “Se podría decir que la pobreza empieza cuando no se tiene criada.”
 
 ## Un rango que mantener
 
